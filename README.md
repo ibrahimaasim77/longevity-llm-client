@@ -7,7 +7,7 @@ chat with the model, see its `<think>` block, and toggle thinking mode on/off.
 
 ```bash
 pip install openai
-export HF_TOKEN=hf_xxx   # token provided by the hackathon organizers
+export HF_TOKEN=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   # token provided by the hackathon organizers
 python3 chat_longevity.py
 ```
 
